@@ -1,0 +1,26 @@
+[
+    {
+        "id": "76fd355c-b4e7-11ec-a8c8-3c7c3fbcacd2",
+        "name": "Ivan",
+        "username": "Vanko",
+        "password": "alabala",
+        "gender": "male",
+        "role": "1"
+    },
+    {
+        "id": "76fd8344-b4e7-11ec-9cd4-3c7c3fbcacd2",
+        "name": "Ivan2",
+        "username": "Vanko2",
+        "password": "alabala2",
+        "gender": "male",
+        "role": "1"
+    },
+    {
+        "id": "76fd8345-b4e7-11ec-a2f0-3c7c3fbcacd2",
+        "name": "Ivan3",
+        "username": "Vanko3",
+        "password": "alabala3",
+        "gender": "male",
+        "role": "2"
+    }
+]
