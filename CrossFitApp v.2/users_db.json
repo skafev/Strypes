@@ -1,0 +1,29 @@
+[
+    {
+        "id": "458aadd2-b86a-11ec-891c-6018955ef464",
+        "first_name": "Ivan",
+        "last_name": "Vanko",
+        "username": "Vankow",
+        "password": "alabala",
+        "gender": "male",
+        "role": "1"
+    },
+    {
+        "id": "458d0def-b86a-11ec-bd51-6018955ef464",
+        "first_name": "Ivan2",
+        "last_name": "Vanko2",
+        "username": "Vankow2",
+        "password": "alabala2",
+        "gender": "male",
+        "role": "1"
+    },
+    {
+        "id": "458d0df0-b86a-11ec-9ae0-6018955ef464",
+        "first_name": "Ivan3",
+        "last_name": "Vanko3",
+        "username": "Vankow3",
+        "password": "alabala3",
+        "gender": "male",
+        "role": "2"
+    }
+]
